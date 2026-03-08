@@ -14,17 +14,51 @@ body {
 #pg-1 {
     height: 100%;
     width: 100%;
-    background-color: rgb(21, 34, 77);
+    //background-color: rgb(21, 34, 77);
 }
 
-#pg-1 #nav {
+#nav {
     height: 120px;
     width: 100%;
-    background-color: rgb(220, 198, 149);
+    //background-color: rgb(220, 198, 149);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+#nav1 {
+    width: 32%;
+    //background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#nav1 i {
+    margin-left: -13px;
+}
+
+#nav1 h4 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#nav2 {
+    width: 28%;
+    // background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+#nav img {
+    height: 110px;
+
 }
 
 #content {
     height: calc(100% - 120px);
     width: 100%;
-    background-color: aqua;
+    //background-color: aqua;
 }
