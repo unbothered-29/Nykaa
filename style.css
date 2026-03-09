@@ -28,7 +28,7 @@ body {
 
 #nav1 {
     width: 80%;
-    // background-color: aqua;
+    //background-color: #00ffff;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -37,6 +37,7 @@ body {
 #nav1 h4 {
     font-size: 16px;
     font-weight: 700;
+    gap: 20px;
 }
 
 #nav1 h4:hover {
@@ -45,8 +46,8 @@ body {
 }
 
 #nav2 {
-    height: 35px;
-    width: 400px;
+    height: 6vh;
+    width: 30%;
     background-color: rgb(255, 255, 255);
     display: flex;
     align-items: center;
@@ -55,8 +56,6 @@ body {
     color: rgba(0, 0, 0, 0.614);
     border-radius: 10px;
 }
-
-#nav2 h4 {}
 
 #nav2 i {
     margin-left: 1vw;
