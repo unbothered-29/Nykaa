@@ -28,7 +28,7 @@ body {
 
 #nav1 {
     width: 80%;
-    //background-color: #00ffff;
+    //background-color: blue;
     display: flex;
     align-items: center;
     justify-content: space-between;
