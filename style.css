@@ -95,6 +95,7 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 0 40px;
+    color: rgba(0, 0, 0, 0.614);
 }
 
 #nav-2 h4:hover {
@@ -106,4 +107,20 @@ body {
     height: calc(100% - 120px);
     width: 100%;
     //background-color: aqua;
+}
+
+.elem {
+    height: 60vw;
+    width: 100%;
+    padding: 0 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow-x: auto;
+}
+
+.elem img {
+    height: 60vh;
+    width: 35vw;
+    border-radius: 10px;
 }
