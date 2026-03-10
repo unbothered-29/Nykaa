@@ -37,7 +37,6 @@ body {
 #nav1 h4 {
     font-size: 16px;
     font-weight: 700;
-    gap: 20px;
 }
 
 #nav1 h4:hover {
@@ -81,11 +80,26 @@ body {
 }
 
 #nav3 i {
-    margin-left: 2vw;
+    margin-left: 3vh;
 }
 
 #nav img {
     height: 70px;
+}
+
+#nav-2 {
+    height: 3.5vw;
+    width: 100%;
+    //background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+#nav-2 h4:hover {
+    color: rgb(236, 26, 113);
+    cursor: pointer;
 }
 
 #content {
