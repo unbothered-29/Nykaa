@@ -27,11 +27,12 @@ body {
 }
 
 #nav1 {
-    width: 80%;
+    width: 90%;
     //background-color: blue;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 10px;
 }
 
 #nav1 h4 {
