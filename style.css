@@ -83,7 +83,7 @@ body {
     border: none;
     background-color: rgb(236, 26, 113);
     color: white;
-    border-radius: 5px;
+    border-radius: 7px;
     font-size: 15px;
     margin: 0 6px;
     white-space: nowrap;
@@ -137,5 +137,9 @@ body {
 }
 
 #pg-2 img {
-    width: 100%;
+    height: 17vh;
+    width: 95%;
+    align-items: center;
+    justify-content: center;
+    padding-left: 60px;
 }
