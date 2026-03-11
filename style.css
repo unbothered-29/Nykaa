@@ -112,15 +112,15 @@ body {
 .elem {
     height: 60vw;
     width: 100%;
-    padding: 0 40px;
+    padding: 10px 40px;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     overflow-x: auto;
+    gap: 10px;
 }
 
 .elem img {
-    height: 60vh;
     width: 35vw;
     border-radius: 10px;
 }
