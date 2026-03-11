@@ -19,12 +19,14 @@ body {
 #nav {
     height: 80px;
     width: 100%;
-    background-color: rgb(255, 227, 240);
+   // background-color: rgb(255, 227, 240);
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 0 40px;
     white-space: nowrap;
+    border-bottom: 1.5px solid rgba(0, 0, 0, 0.14);
+    border-top: 1.5px solid rgba(0, 0, 0, 0.14);
 }
 
 #nav1 {
@@ -33,7 +35,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 10px;
+    gap: 15px;
 }
 
 #nav1 h4 {
@@ -48,14 +50,19 @@ body {
 
 #nav2 {
     height: 6vh;
-    width: 110%;
-    background-color: rgb(255, 255, 255);
+    width: 140%;
+    background-color: rgb(243, 236, 236);
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    margin-left: 450px;
+    margin-left: 350px;
     color: rgba(0, 0, 0, 0.614);
-    border-radius: 10px;
+    border-radius: 8px;
+    gap: 5px;
+}
+
+#nav2 h4 {
+    margin-right: 20px;
 }
 
 #nav2 i {
@@ -71,14 +78,15 @@ body {
 }
 
 #nav3 button {
-    padding: 8px 5px;
+    padding: 8px 8px;
     font-weight: 600;
     border: none;
     background-color: rgb(236, 26, 113);
     color: white;
-    border-radius: 10px;
+    border-radius: 5px;
     font-size: 15px;
     margin: 0 6px;
+    white-space: nowrap;
 }
 
 #nav3 i {
@@ -98,6 +106,7 @@ body {
     justify-content: space-between;
     padding: 0 40px;
     color: rgba(0, 0, 0, 0.614);
+    border-bottom: 1.5px solid rgba(0, 0, 0, 0.14);
 }
 
 #nav-2 h4:hover {
