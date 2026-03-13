@@ -202,3 +202,17 @@ body {
         transform: translateX(-100%);
     }
 }
+
+#pg-3 {
+    height: 100%;
+    width: 100%;
+    //background-color: rgb(21, 34, 77);
+}
+
+#pg-3 img {
+    height: 17vh;
+    width: 130vw;
+    margin-top: -2vw;
+    padding-right: 270px;
+    margin-left: -60px;
+}
