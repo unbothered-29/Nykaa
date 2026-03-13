@@ -99,6 +99,18 @@ body {
     height: 70px;
 }
 
+#nav2 h4:hover {
+    cursor: pointer;
+}
+
+#nav3 i:hover {
+    cursor: pointer;
+}
+
+#nav3 button:hover {
+    cursor: pointer;
+}
+
 #nav-2 {
     height: 3.5vw;
     width: 100%;
