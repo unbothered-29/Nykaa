@@ -216,3 +216,18 @@ body {
     padding-right: 270px;
     margin-left: -60px;
 }
+
+#con {
+    height:40vh;
+    width: fit-content;
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    padding-right: -200vh;
+}
+
+#con video {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
