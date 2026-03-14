@@ -58,7 +58,7 @@ body {
     align-items: center;
     justify-content: flex-start;
     margin-left: 380px;
-    color: rgba(0, 0, 0, 0.614);
+    color: rgba(0, 0, 0, 0.500);
     border-radius: 8px;
     gap: 5px;
 }
@@ -250,4 +250,16 @@ body {
     object-fit: cover;
     border-radius: 20px;
     margin-left: 70px;
+}
+
+#dot img {
+    height: 33vh;
+    width: 120vw;
+    margin-top: 2vw;
+    //padding-right: 225px;
+    margin-left: 1px;
+   
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
 }
