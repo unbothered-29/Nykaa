@@ -223,6 +223,8 @@ body {
     height: 100%;
     width: 100%;
     //background-color: rgb(21, 34, 77);
+    padding-left: 0;
+
 }
 
 #pg-3 img {
@@ -247,5 +249,5 @@ body {
     width: 106%;
     object-fit: cover;
     border-radius: 20px;
-    padding-left: 10px;
+    margin-left: 70px;
 }
