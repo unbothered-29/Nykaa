@@ -230,7 +230,7 @@ body {
 #pg-3 img {
     height: 17vh;
     width: 130vw;
-    margin-top: -2vw;
+    margin-top: -0.1vw;
     padding-right: 270px;
     margin-left: -60px;
     padding-left: 0;
@@ -262,4 +262,21 @@ body {
     border-radius: 10px;
     align-items: center;
     justify-content: center;
+}
+#pg-3 .product{
+    width: 100%;
+    display: flex;
+    margin-left: 0px;
+    background-color: aqua;
+    padding-left: 200px;
+    
+}
+#pg-3 .product img{
+    height: 120px;
+    align-items: center;
+    justify-content: space-around;
+    animation-name: anime;
+    animation-duration: 10s;
+    animation-iteration-count: infinte;
+    animation-timing-function: linear;
 }
