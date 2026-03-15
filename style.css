@@ -324,17 +324,25 @@ body {
 #one h4 {
     font-weight: 500;
 }
+#three{
+     //background-color: bisque;
+     width: 10vw;
+     margin-top: 3.5px;
+}
 
-#one h5 {
+#three h5 {
     font-weight: 400;
     color: rgba(0, 0, 0, 0.45);
 }
-#two{
+
+#two {
     //background-color: burlywood;
     display: flex;
+    margin-top: 5px;
 }
-#two h5{
-      margin-left: 5px;
+
+#two h5 {
+    margin-left: 5px;
 }
 
 #two i {
