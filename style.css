@@ -292,7 +292,7 @@ body {
     width: 100%;
     display: flex;
     //background-color: aqua;
-   gap: -20px;
+    gap: -20px;
     padding-top: 35px;
     margin-left: 120px;
 }
@@ -308,25 +308,35 @@ body {
     animation-iteration-count: infinte;
     animation-timing-function: linear;*/
 }
-.name{
+
+.name {
     display: flex;
 }
-#one{
+
+#one {
     height: 70px;
     width: 100px;
-   // background-color: aquamarine;
+    // background-color: aquamarine;
     margin-left: 13vh;
     margin-top: 11vh;
 }
-#one h4{
+
+#one h4 {
     font-weight: 600;
 }
-#one h5{
+
+#one h5 {
     font-weight: 400;
+    color: rgba(0, 0, 0, 0.45);
 }
+
+#one i {
+    color: rgba(0, 0, 0, 0.45);
+}
+
 #ml {
     height: 2vh;
     width: 4vw;
-   // background-color: blue;
+    // background-color: blue;
     display: flex;
 }
