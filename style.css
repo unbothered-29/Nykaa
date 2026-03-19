@@ -472,16 +472,23 @@ button:hover {
 #div1 {
     width: 100%;
     height: 35vh;
-    background-color: aqua;
+   // background-color: aqua;
     display: flex;
+    margin-left: 6vh;
 }
 
 #mac {
     height: 35vh;
     width: 20vw;
-    background-color: aquamarine;
+   // background-color: aquamarine;
+    margin-right: -4vw;
 }
-#mac img{
+
+#mac img {
     margin-top: 1vw;
-    height: ;
+    height: 30vh;
+}
+#mac h4{
+    font-weight: 500;
+    font-size: 2.3vh;
 }
