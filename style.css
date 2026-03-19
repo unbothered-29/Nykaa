@@ -459,7 +459,29 @@ button:hover {
     cursor: pointer;
 }
 
-#luxe img{
+#pg-4 {
+    height: 100%;
+    width: 100%;
+}
+
+#luxe img {
     height: 16vh;
-    margin-top: 2vw;
+    margin-top: 23.8vw;
+}
+
+#div1 {
+    width: 100%;
+    height: 35vh;
+    background-color: aqua;
+    display: flex;
+}
+
+#mac {
+    height: 35vh;
+    width: 20vw;
+    background-color: aquamarine;
+}
+#mac img{
+    margin-top: 1vw;
+    height: ;
 }
