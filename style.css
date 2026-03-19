@@ -472,7 +472,7 @@ button:hover {
 #div1 {
     width: 100%;
     height: 35vh;
-   // background-color: aqua;
+    // background-color: aqua;
     display: flex;
     margin-left: 6vh;
 }
@@ -480,7 +480,7 @@ button:hover {
 #mac {
     height: 35vh;
     width: 20vw;
-   // background-color: aquamarine;
+    // background-color: aquamarine;
     margin-right: -4vw;
 }
 
@@ -488,15 +488,39 @@ button:hover {
     margin-top: 1vw;
     height: 30vh;
 }
-#mac h4{
+
+#mac h4 {
     font-weight: 500;
     font-size: 2.3vh;
+    margin-top: 0.8vw;
 }
+
 #div2 {
     width: 100%;
     height: 35vh;
     //background-color: aqua;
     display: flex;
     margin-left: 6vh;
-    margin-top: 1vw;
+    margin-top: 2vw;
+}
+
+#brand {
+    height: 5vh;
+    width: 20vw;
+    //background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    margin-left: 42vw;
+    margin-top: 7vh;
+}
+
+#brand button {
+    height: 6vh;
+    width: 21vw;
+    background-color: rgb(236, 26, 113);
+    border-radius: 15%;
+    color: white;
+    border: 1px;
+    font-size: 1.2vw;
+    font-family: poppins;
 }
