@@ -516,11 +516,12 @@ button:hover {
 
 #brand button {
     height: 6vh;
-    width: 21vw;
+    width: 24vw;
     background-color: rgb(236, 26, 113);
-    border-radius: 15%;
+    border-radius: 20px;
     color: white;
-    border: 1px;
+    border: none;
     font-size: 1.2vw;
     font-family: poppins;
+    white-space: nowrap;
 }
