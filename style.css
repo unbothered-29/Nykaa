@@ -162,6 +162,39 @@ body {
     cursor: pointer;
 }
 
+#h {
+    height: 7vh;
+    width: 100%;
+    //background-color: aqua;
+}
+
+#help {
+    height: 8.5vh;
+    width: 21.5vw;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin-left: 75vw;
+    border: 2px solid rgba(0, 0, 0, 0);
+    gap: 1.5vw;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: -44px;
+    position: absolute;
+}
+
+#help i {
+    margin-top: 0.5vh;
+    margin-left: 10px;
+    font-size: 2vw;
+    color: rgb(236, 26, 113);
+}
+
+#help h4 {
+    margin-top: 1.2vh;
+    font-size: 1.2vw;
+    font-weight: 400;
+}
+
 #pg-2 img {
     height: 17vh;
     width: 95%;
