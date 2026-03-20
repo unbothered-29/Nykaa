@@ -20,7 +20,7 @@ body {
 }
 
 #n1 {
-    height: 7vh;
+    height: 6vh;
     width: 100%;
     background-color: rgb(255, 98, 161);
     display: flex;
@@ -85,7 +85,6 @@ body {
     //position: absolute;
     background-color: white;
     margin-top: 7vh;
-
 }
 
 #nav1 {
