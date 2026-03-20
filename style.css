@@ -18,6 +18,43 @@ body {
     //background-color: rgb(21, 34, 77);
 }
 
+#n1 {
+    height: 7vh;
+    width: 100%;
+    background-color: rgb(255, 98, 161);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#bonaza {
+    width: 60vw;
+    background-color: antiquewhite;
+}
+
+#bonaza h3 {
+    font-size: 1.2vw;
+    font-weight: 600;
+}
+
+.card {
+    display: flex;
+    width: 70vw;
+    margin-left: 70vh;
+    gap: 2vw;
+    //background-color: aquamarine;
+}
+
+#app {
+    display: flex;
+    gap: 0.5vw;
+}
+
+#app h3 {
+    font-size: 1.2vw;
+    font-weight: 500;
+}
+
 #nav {
     height: 80px;
     width: 100%;
@@ -29,9 +66,9 @@ body {
     white-space: nowrap;
     border-bottom: 1.5px solid rgba(0, 0, 0, 0.14);
     border-top: 1.5px solid rgba(0, 0, 0, 0.14);
-    position: absolute;
+    // position: absolute;
     background-color: white;
-    margin-top: -80px;
+    margin-top: 20px;
 }
 
 #nav1 {
@@ -124,7 +161,7 @@ body {
     padding: 0 40px;
     color: rgba(0, 0, 0, 0.514);
     border-bottom: 1.5px solid rgba(0, 0, 0, 0.14);
-    margin-top: 80px;
+    margin-top: 0px;
 }
 
 #nav-2 h4:hover {
