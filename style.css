@@ -16,6 +16,7 @@ body {
     height: 100%;
     width: 100%;
     //background-color: rgb(21, 34, 77);
+    overflow: hdden;
 }
 
 #n1 {
@@ -25,24 +26,31 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    position: absolute;
+    margin-top: -7vh;
+
 }
 
 #bonaza {
     width: 60vw;
-    background-color: antiquewhite;
+    //background-color: antiquewhite;
+    margin-left: 60px;
 }
 
 #bonaza h3 {
     font-size: 1.2vw;
-    font-weight: 600;
+    font-weight: 500;
+    font-family: poppins;
 }
 
 .card {
     display: flex;
     width: 70vw;
-    margin-left: 70vh;
+    margin-left: 40vh;
     gap: 2vw;
     //background-color: aquamarine;
+    align-items: center;
+    justify-content: center;
 }
 
 #app {
@@ -53,10 +61,18 @@ body {
 #app h3 {
     font-size: 1.2vw;
     font-weight: 500;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3px;
+}
+
+#app i {
+    font-size: 1.8vw;
+    color: rgba(0, 0, 0, 0.756);
 }
 
 #nav {
-    height: 80px;
+    height: 65px;
     width: 100%;
     // background-color: rgb(255, 227, 240);
     display: flex;
@@ -66,9 +82,10 @@ body {
     white-space: nowrap;
     border-bottom: 1.5px solid rgba(0, 0, 0, 0.14);
     border-top: 1.5px solid rgba(0, 0, 0, 0.14);
-    // position: absolute;
+    //position: absolute;
     background-color: white;
-    margin-top: 0px;
+    margin-top: 7vh;
+
 }
 
 #nav1 {
@@ -176,7 +193,7 @@ body {
 }
 
 .elem {
-    height: 60vw;
+    height: 55vw;
     width: 100%;
     padding: 10px 40px;
     display: flex;
@@ -186,8 +203,8 @@ body {
 }
 
 .elem img {
-    height: 72vh;
-    width: 35vw;
+    height: 68vh;
+    width: 32vw;
     border-radius: 10px;
     animation-name: anime;
     animation-duration: 10s;
@@ -238,7 +255,7 @@ body {
     align-items: center;
     justify-content: center;
     padding-left: 60px;
-    margin-top: -24vw;
+    margin-top: -5vw;
 }
 
 #text {
