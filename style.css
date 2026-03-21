@@ -48,7 +48,7 @@ body {
     display: flex;
     width: 70vw;
     margin-left: 40vh;
-    gap: 0vw;
+    gap: 0;
     //background-color: aquamarine;
     align-items: center;
     justify-content: center;
@@ -59,21 +59,18 @@ body {
     align-items: center;
     padding: 0 14px;
     gap: 0.5vw;
+    white-space: nowrap;
 }
 
 .app :not(:last-child) {
     border-left: 2px solid black;
     padding-left: 16px;
+    margin-left: 8px;
 }
 
 .app :hover {
     color: white;
     cursor: pointer;
-}
-
-.app {
-    display: flex;
-    gap: 0.2vw;
 }
 
 .app h3 {
