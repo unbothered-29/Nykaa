@@ -86,7 +86,7 @@ body {
     justify-content: center;
     padding: 0 40px;
     white-space: nowrap;
-    //border-bottom: 1.5px solid rgba(0, 0, 0, 0.14);
+    border-bottom: 1.5px solid rgba(0, 0, 0, 0.14);
     //border-top: 1.5px solid rgba(0, 0, 0, 0.14);
     background-color: white;
     margin-top: 1vh;
@@ -191,8 +191,8 @@ body {
     padding: 0 40px;
     color: rgba(0, 0, 0, 0.514);
     border-bottom: 1.5px solid rgba(0, 0, 0, 0.14);
-    border-top: 1.5px solid rgba(0, 0, 0, 0.14);
-    margin-top: 5vh;
+    //border-top: 1.5px solid rgba(0, 0, 0, 0.14);
+    margin-top: 4vh;
 }
 
 #nav-2 h4:hover {
@@ -214,7 +214,6 @@ body {
     align-items: flex-start;
     justify-content: space-between;
     gap: 10px;
-    margin-top: vh;
 }
 
 .elem img {
