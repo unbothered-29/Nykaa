@@ -228,10 +228,11 @@ body {
     align-items: flex-start;
     justify-content: space-between;
     gap: 10px;
+    margin-top: 5px;
 }
 
 .elem img {
-    height: 68vh;
+    height: 70vh;
     width: 32vw;
     border-radius: 10px;
     animation-name: anime;
@@ -277,7 +278,7 @@ body {
     font-weight: 500;
 }
 
-#help :hover {
+#h:hover {
     cursor: pointer;
 }
 
