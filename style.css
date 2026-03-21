@@ -22,7 +22,7 @@ body {
 #n1 {
     height: 6vh;
     width: 100%;
-    background-color: rgb(255, 98, 161);
+    background-color: rgb(254, 142, 181);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -61,7 +61,7 @@ body {
 
 #app {
     display: flex;
-    gap: 0.5vw;
+    gap: 0.2vw;
 }
 
 #app h3 {
@@ -73,14 +73,14 @@ body {
 }
 
 #app i {
-    font-size: 1.8vw;
+    font-size: 1.6vw;
     color: rgba(0, 0, 0, 0.756);
 }
 
 #nav {
-    height: 60px;
+    height: 70px;
     width: 100%;
-    // background-color: rgb(255, 227, 240);
+    //background-color: rgb(255, 227, 240);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -97,13 +97,14 @@ body {
 }
 
 #nav1 {
-    width: auto;
+    width: 100vw;
     //background-color: blue;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 15px;
+    gap: 30px;
     margin-top: 1vh;
+    margin-left: 20px;
 }
 
 #nav1 h4 {
@@ -117,17 +118,17 @@ body {
 }
 
 #nav2 {
-    height: 6vh;
-    width: 40%;
+    height: 6.4vh;
+    width: 150vw;
     background-color: rgb(243, 236, 236);
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    margin-left: 420px;
+    margin-left: 180px;
     color: rgba(0, 0, 0, 0.500);
-    border-radius: 8px;
+    border-radius: 2px;
     gap: 5px;
-    margin-top: 1vh;
+
 }
 
 #nav2 h4 {
@@ -144,12 +145,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    margin-top: 1vh;
+    margin-right: 60px;
+    gap: 5px;
 }
 
 #nav3 button {
-    height: 40px;
-    width: 80px;
+    height: 45px;
+    width: 83px;
     padding: 8px 8px;
     font-weight: 600;
     border: none;
@@ -157,12 +159,15 @@ body {
     color: white;
     border-radius: 7px;
     font-size: 15px;
-    margin: 0 6px;
+    margin: 0 7px;
     white-space: nowrap;
 }
 
-#nav3 i {
-    margin-left: 1.3vh;
+#icon i {
+    //background-color: aqua;
+    margin-left: -1.5vh;
+    font-size: 1.8vw;
+    font-weight: 300;
 }
 
 #nav img {
