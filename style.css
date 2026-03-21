@@ -475,16 +475,16 @@ button:hover {
     height: 150px;
     align-items: flex-start;
     justify-content: flex-start;
-    margin-right: -175px;
+    margin-right: -185px;
     border-radius: 10px;
 }
 
 .name {
     width: 100%;
     display: flex;
-    margin-top: -25px;
-    margin-left: -10px;
-    // background-color: antiquewhite;
+    margin-top: -45px;
+    margin-left: -5px;
+   // background-color: antiquewhite;
 }
 
 #one {
