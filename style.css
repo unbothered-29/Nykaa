@@ -48,23 +48,35 @@ body {
     display: flex;
     width: 70vw;
     margin-left: 40vh;
-    gap: 2vw;
+    gap: 0vw;
     //background-color: aquamarine;
     align-items: center;
     justify-content: center;
 }
 
-#app :hover {
+.app {
+    display: flex;
+    align-items: center;
+    padding: 0 14px;
+    gap: 0.5vw;
+}
+
+.app :not(:last-child) {
+    border-left: 2px solid black;
+    padding-left: 16px;
+}
+
+.app :hover {
     color: white;
     cursor: pointer;
 }
 
-#app {
+.app {
     display: flex;
     gap: 0.2vw;
 }
 
-#app h3 {
+.app h3 {
     font-size: 1.2vw;
     font-weight: 500;
     align-items: center;
@@ -72,7 +84,7 @@ body {
     margin-top: 3px;
 }
 
-#app i {
+.app i {
     font-size: 1.6vw;
     color: rgba(0, 0, 0, 0.756);
 }
