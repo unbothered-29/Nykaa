@@ -464,7 +464,7 @@ button:hover {
     //background-color: aqua;
     gap: -20px;
     padding-top: 35px;
-    margin-left: 110px;
+    margin-left: 120px;
 }
 
 .product :hover {
@@ -475,7 +475,7 @@ button:hover {
     height: 150px;
     align-items: flex-start;
     justify-content: flex-start;
-    margin-right: -185px;
+    margin-right: -175px;
     border-radius: 10px;
 }
 
@@ -483,15 +483,16 @@ button:hover {
     width: 100%;
     display: flex;
     margin-top: -45px;
-    margin-left: -5px;
-   // background-color: antiquewhite;
+    margin-left: -10px;
+    margin-right: 2px;
+    // background-color: antiquewhite;
 }
 
 #one {
     height: 70px;
     width: 100px;
     // background-color: aquamarine;
-    margin-left: 13vh;
+    margin-left: 14vh;
     margin-top: 11vh;
 }
 
