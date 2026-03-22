@@ -710,5 +710,21 @@ button:hover {
     margin-top: 10vh;
     align-items: center;
     justify-content: center;
-    margin-left: 30vw;
+    margin-left: 15vw;
+
+}
+
+#viewAll button {
+    height: 30px;
+    width: 80vw;
+    margin-left: -20vw;
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid #ff3f6c;
+}
+
+#viewAll h3 {
+    color: #ff3f6c;
+    font-weight: 600;
+
 }
