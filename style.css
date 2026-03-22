@@ -707,16 +707,16 @@ button:hover {
     width: 90px;
     padding: 0 20vw;
     //background-color: aqua;
-    margin-top: 10vh;
+    margin-top: 14vh;
     align-items: center;
     justify-content: center;
-    margin-left: 15vw;
+    margin-left: 5vw;
 
 }
 
 #viewAll button {
-    height: 30px;
-    width: 80vw;
+    height: 38px;
+    width: 90vw;
     margin-left: -20vw;
     background-color: white;
     border-radius: 20px;
@@ -726,4 +726,5 @@ button:hover {
 #viewAll h3 {
     color: #ff3f6c;
     font-weight: 600;
+    font-size: 0.9vw;
 }
