@@ -706,7 +706,7 @@ button:hover {
     height: 10px;
     width: 90px;
     padding: 0 20vw;
-    background-color: aqua;
+    //background-color: aqua;
     margin-top: 10vh;
     align-items: center;
     justify-content: center;
@@ -726,5 +726,4 @@ button:hover {
 #viewAll h3 {
     color: #ff3f6c;
     font-weight: 600;
-
 }
