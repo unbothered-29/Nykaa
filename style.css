@@ -701,3 +701,14 @@ button:hover {
 #images {
     border-radius: 1vw;
 }
+
+#viewAll {
+    height: 10px;
+    width: 90px;
+    padding: 0 20vw;
+    background-color: aqua;
+    margin-top: 10vh;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30vw;
+}
