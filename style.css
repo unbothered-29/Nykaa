@@ -379,6 +379,11 @@ body {
     padding-left: 0;
 }
 
+.img {
+    height: 17vh;
+    width: 130vw;
+}
+
 #pg-3 img {
     height: 17vh;
     width: 130vw;
@@ -678,4 +683,11 @@ button:hover {
     font-size: 1.2vw;
     font-family: poppins;
     white-space: nowrap;
+}
+
+#newAtNykaa {
+    height: 10vh;
+    width: 10vw;
+    margin-left: -15vw;
+    margin-top: 30vw;
 }
