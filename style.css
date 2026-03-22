@@ -698,8 +698,8 @@ button:hover {
     gap: 10px;
 }
 
-#images {
-    border-radius: 1vw;
+#images img {
+    border-radius: 10px;
 }
 
 #viewAll {
