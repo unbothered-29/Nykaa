@@ -73,6 +73,11 @@ body {
     cursor: pointer;
 }
 
+.app i:hover {
+    color: white;
+    cursor: pointer;
+}
+
 .app h3 {
     font-size: 1.2vw;
     font-weight: 500;
