@@ -692,9 +692,12 @@ button:hover {
     display: flex;
     height: 40vh;
     width: 100vw;
-    background-color: antiquewhite;
+    //background-color: antiquewhite;
     margin-top: 20vh;
     margin-left: 50px;
     gap: 10px;
 }
-#images
+
+#images {
+    border-radius: 1vw;
+}
