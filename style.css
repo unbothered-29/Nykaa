@@ -201,7 +201,7 @@ body {
 
 #icon i {
     //background-color: aqua;
-    margin-left: -1.5vh;
+    margin-left: -3vh;
     font-size: 1.8vw;
     font-weight: 300;
 }
@@ -214,7 +214,7 @@ body {
     cursor: pointer;
 }
 
-#nav3 i:hover {
+i:hover {
     cursor: pointer;
 }
 
@@ -242,7 +242,7 @@ body {
 }
 
 #nav-2 h4:hover {
-    color:rgb(232, 0, 112);
+    color: rgb(232, 0, 112);
     cursor: pointer;
 }
 
@@ -724,7 +724,7 @@ button:hover {
 }
 
 #viewAll h3 {
-    color:rgb(232, 0, 112);
+    color: rgb(232, 0, 112);
     font-weight: 600;
     font-size: 0.9vw;
 }
