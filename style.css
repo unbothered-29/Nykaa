@@ -720,11 +720,11 @@ button:hover {
     margin-left: -20vw;
     background-color: white;
     border-radius: 20px;
-    border: 2px solid #ff3f6c;
+    border: 2px solid rgb(232, 0, 112);
 }
 
 #viewAll h3 {
-    color: #ff3f6c;
+    color:rgb(232, 0, 112);
     font-weight: 600;
     font-size: 0.9vw;
 }
