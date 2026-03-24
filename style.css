@@ -728,7 +728,9 @@ button:hover {
     font-weight: 600;
     font-size: 0.9vw;
 }
-
+#discoverOurStory{
+    margin-top:-2.5vw ;
+}
 .image {
     display: flex;
     height: 43vh;
