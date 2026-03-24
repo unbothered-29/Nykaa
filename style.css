@@ -688,7 +688,7 @@ button:hover {
     margin-top: 30vw;
 }
 
-#images {
+.images {
     display: flex;
     height: 43vh;
     width: 100vw;
@@ -698,7 +698,7 @@ button:hover {
     gap: 10px;
 }
 
-#images img {
+.images img {
     border-radius: 10px;
 }
 
@@ -727,4 +727,20 @@ button:hover {
     color: rgb(232, 0, 112);
     font-weight: 600;
     font-size: 0.9vw;
+}
+
+.image {
+    display: flex;
+    height: 43vh;
+    width: 100vw;
+    //background-color: antiquewhite;
+    margin-top: 20vh;
+    margin-left: 50px;
+    gap: 10px;
+}
+
+.image img {
+    width: 20vw;
+    height: 45vh;
+    border-radius: 10px;
 }
