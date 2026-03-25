@@ -223,14 +223,14 @@ i:hover {
 }
 
 #nav-2 {
-    height: 3.5vw;
+    height: 3.7vw;
     width: 100%;
     //background-color: aqua;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 90px;
-    color: rgba(0, 0, 0, 0.614);
+    color: rgba(0, 0, 0, 0.500);
     border-bottom: 1.5px solid rgba(0, 0, 0, 0.14);
     //border-top: 1.5px solid rgba(0, 0, 0, 0.14);
     margin-top: 4vh;
