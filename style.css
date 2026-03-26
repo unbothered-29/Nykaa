@@ -751,23 +751,27 @@ button:hover {
 }
 
 #startHere {
-    height: 500px;
+    height: 200px;
     width: 100%;
-    background-color: aquamarine;
+    // background-color: aquamarine;
     margin-top: 50px;
 }
 
 #needHelp {
     height: 40px;
-    width: 400px;
-    background-color: aqua;
+    width: 430px;
+    // background-color: aqua;
+    padding-left: 20px;
 }
 
 #pictures {
     width: 100%;
-    background-color: bisque;
-    margin-top: 20px;
+    //background-color: bisque;
+    margin-top: 10px;
+    margin-left: 20px;
 }
-#pictures img{
-    
+
+#pictures img {
+    height: 130px;
+    margin-right: 20px;
 }
