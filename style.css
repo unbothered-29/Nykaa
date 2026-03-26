@@ -759,26 +759,30 @@ button:hover {
 
 #needHelp {
     height: 40px;
-    width: 450px;
+    width: 470px;
     // background-color: aqua;
     padding-left: 50px;
 }
 
 #needHelp h2 {
-    font-family: inter, inter;
+    font-family: Inter, Inter;
     font-weight: 600;
-    font-size: 24px;
+    font-size: 26px;
     color: rgb(0, 19, 37);
 }
 
 #pictures {
     width: 100%;
     //background-color: bisque;
-    margin-top: -5px;
+    margin-top: -8px;
     margin-left: 50px;
 }
 
 #pictures img {
-    height: 130px;
+    height: 126px;
     margin-right: 20px;
+}
+
+#pictures img:hover {
+    cursor: pointer;
 }
