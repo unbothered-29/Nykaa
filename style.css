@@ -759,16 +759,23 @@ button:hover {
 
 #needHelp {
     height: 40px;
-    width: 430px;
+    width: 450px;
     // background-color: aqua;
-    padding-left: 20px;
+    padding-left: 50px;
+}
+
+#needHelp h2 {
+    font-family: inter, inter;
+    font-weight: 600;
+    font-size: 24px;
+    color: rgb(0, 19, 37);
 }
 
 #pictures {
     width: 100%;
     //background-color: bisque;
-    margin-top: 10px;
-    margin-left: 20px;
+    margin-top: -5px;
+    margin-left: 50px;
 }
 
 #pictures img {
