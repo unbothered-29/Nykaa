@@ -749,15 +749,25 @@ button:hover {
     height: 45vh;
     border-radius: 10px;
 }
-#startHere{
+
+#startHere {
     height: 500px;
     width: 100%;
     background-color: aquamarine;
     margin-top: 50px;
 }
 
-#needHelp{
+#needHelp {
     height: 40px;
     width: 400px;
     background-color: aqua;
+}
+
+#pictures {
+    width: 100%;
+    background-color: bisque;
+    margin-top: 20px;
+}
+#pictures img{
+    
 }
