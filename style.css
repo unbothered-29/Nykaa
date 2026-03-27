@@ -15,7 +15,7 @@ body {
 #pg-1 {
     height: 100%;
     width: 100%;
-    //background-color: rgb(21, 34, 77);
+    /*background-color: rgb(21, 34, 77); */
 
 }
 
@@ -34,7 +34,7 @@ body {
 
 #bonaza {
     width: 60vw;
-    //background-color: antiquewhite;
+    /*background-color: antiquewhite; */
     margin-left: 60px;
 }
 
@@ -49,8 +49,8 @@ body {
     width: 70vw;
     margin-left: 40vh;
     gap: 0;
-    //background-color: aquamarine;
-    align-items: center;
+    /*background-color: aquamarine; */
+    align-items: center; 
     justify-content: center;
 }
 
@@ -94,14 +94,14 @@ body {
 #nav {
     height: 70px;
     width: 100%;
-    //background-color: rgb(255, 227, 240);
+    /* background-color: rgb(255, 227, 240); */
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 0 40px;
     white-space: nowrap;
     border-bottom: 1.5px solid rgba(0, 0, 0, 0.14);
-    //border-top: 1.5px solid rgba(0, 0, 0, 0.14);
+    /*border-top: 1.5px solid rgba(0, 0, 0, 0.14);  */
     background-color: white;
     margin-top: 1vh;
     position: sticky;
@@ -112,7 +112,7 @@ body {
 
 #nav1 {
     width: 100vw;
-    //background-color: blue;
+    /* background-color: blue; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -176,7 +176,7 @@ body {
 
 #nav3 {
     width: 70%;
-    //background-color: aqua;
+    /*background-color: aqua;*/
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -199,7 +199,7 @@ body {
 }
 
 #icon i {
-    //background-color: aqua;
+    /*background-color: aqua;*/
     margin-left: -3vh;
     font-size: 1.8vw;
     font-weight: 300;
@@ -224,14 +224,14 @@ i:hover {
 #nav-2 {
     height: 3.7vw;
     width: 100%;
-    //background-color: aqua;
+    /*background-color: aqua; */
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 90px;
     color: rgba(0, 0, 0, 0.500);
     border-bottom: 1.5px solid rgba(0, 0, 0, 0.14);
-    //border-top: 1.5px solid rgba(0, 0, 0, 0.14);
+    /*border-top: 1.5px solid rgba(0, 0, 0, 0.14);*/
     margin-top: 4vh;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
 }
@@ -249,7 +249,7 @@ i:hover {
 #content {
     height: calc(100% - 120px);
     width: 100%;
-    //background-color: aqua;
+    /*background-color: aqua;*/
 }
 
 .elem {
@@ -284,7 +284,7 @@ i:hover {
 .text {
     height: 20px;
     width: 250px;
-    //background-color: aqua;
+    /*background-color: aqua;*/
     margin-top: -450px;
     margin-left: 80px;
 }
@@ -306,7 +306,7 @@ i:hover {
 #h {
     height: 7vh;
     width: 100%;
-    //background-color: aqua;
+    /*background-color: aqua; */
 }
 
 #help {
@@ -402,7 +402,7 @@ i:hover {
 #pg-3 {
     height: 100%;
     width: 100%;
-    //background-color: rgb(226, 230, 243);
+    /*background-color: rgb(226, 230, 243); */
     padding-left: 0;
 }
 
@@ -418,7 +418,7 @@ i:hover {
 #con {
     height: 40vh;
     width: fit-content;
-    //background-color: aqua;
+    /*background-color: aqua;*/
     align-items: center;
     justify-content: center;
 }
@@ -441,7 +441,7 @@ i:hover {
 #left {
     height: 10vh;
     width: 10vh;
-    //background-color: bisque;
+    /*background-color: bisque;*/
     align-items: center;
     justify-content: center;
     margin-left: 20px;
@@ -469,7 +469,7 @@ button:hover {
 #right {
     height: 10vh;
     width: 10vh;
-    //background-color: bisque;
+    /*background-color: bisque;*/
     align-items: center;
     justify-content: center;
     margin-left: 0px;
@@ -506,7 +506,7 @@ button:hover {
     width: 20vw;
     position: relative;
     bottom: 0;
-    //background-color: aquamarine;
+    /*background-color: aquamarine;*/
     margin-left: 67px;
     margin-top: -75px;
 }
@@ -523,7 +523,7 @@ button:hover {
     height: 20vh;
     width: 100%;
     display: flex;
-    //background-color: aqua;
+    /*background-color: aqua;*/
     gap: -20px;
     padding-top: 35px;
     margin-left: 120px;
@@ -547,13 +547,13 @@ button:hover {
     margin-top: -45px;
     margin-left: -10px;
     margin-right: 2px;
-    // background-color: antiquewhite;
+    /*background-color: antiquewhite;*/
 }
 
 #one {
     height: 70px;
     width: 100px;
-    // background-color: aquamarine;
+    /* background-color: aquamarine;*/
     margin-left: 14vh;
     margin-top: 11vh;
 }
@@ -563,7 +563,7 @@ button:hover {
 }
 
 #three {
-    //background-color: bisque;
+    /*background-color: bisque;*/
     width: 12vw;
     margin-top: 6px;
 }
@@ -574,7 +574,7 @@ button:hover {
 }
 
 #two {
-    //background-color: burlywood;
+    /*background-color: burlywood;*/
     display: flex;
     margin-top: 15px;
 }
@@ -592,7 +592,7 @@ button:hover {
 #price {
     height: 3vh;
     width: 10vw;
-    //background-color: blueviolet;
+    /*background-color: blueviolet;*/
     display: flex;
     margin-top: -3px;
 }
@@ -600,7 +600,7 @@ button:hover {
 #four {
     height: 2vh;
     width: 3.5vw;
-    //background-color: beige;
+    /*background-color: beige;*/
     margin-top: 10px;
 }
 
@@ -620,7 +620,7 @@ button:hover {
 #five {
     height: 2vh;
     width: 5.5vw;
-    //background-color: beige;
+    /*background-color: beige;*/
     margin-top: 10px;
     margin-left: 5px;
     margin-right: 5px;
@@ -631,7 +631,7 @@ button:hover {
 #six {
     height: 2vh;
     width: 3.5vw;
-    //background-color: beige;
+    /*background-color: beige;*/
     margin-top: 10px;
     color: green;
 }
@@ -653,7 +653,7 @@ button:hover {
 #div1 {
     width: 100%;
     height: 35vh;
-    // background-color: aqua;
+    /* background-color: aqua;*/
     display: flex;
     margin-left: 6vh;
 }
@@ -661,7 +661,7 @@ button:hover {
 #mac {
     height: 35vh;
     width: 20vw;
-    // background-color: aquamarine;
+    /* background-color: aquamarine;*/
     margin-right: -4vw;
 }
 
@@ -679,7 +679,7 @@ button:hover {
 #div2 {
     width: 100%;
     height: 35vh;
-    //background-color: aqua;
+    /*background-color: aqua;*/
     display: flex;
     margin-left: 6vh;
     margin-top: 2vw;
@@ -688,7 +688,7 @@ button:hover {
 #brand {
     height: 5vh;
     width: 20vw;
-    //background-color: aqua;
+    /*background-color: aqua;*/
     align-items: center;
     justify-content: center;
     margin-left: 36vw;
@@ -711,7 +711,7 @@ button:hover {
     margin-top: 440px;
     height: 500px;
     width: 100%;
-    //  background-color: aquamarine;
+    /* background-color: aquamarine;*/
 }
 
 #incoming {
@@ -730,7 +730,7 @@ button:hover {
     height: 75%;
     width: 100%;
     margin-top: 5vh;
-    //background-color: antiquewhite;
+    /*background-color: antiquewhite;*/
 }
 
 #sunscreen img {
@@ -758,13 +758,13 @@ button:hover {
     justify-content: space-evenly;
     align-items: center;
     margin-top: 5px;
-    //background-color: aqua;
+    /*background-color: aqua;*/
 }
 
 .derma {
     width: 220px;
     text-align: left;
-    // background-color: aquamarine;
+    /* background-color: aquamarine;*/
     margin-right: 25px;
 }
 
@@ -786,7 +786,7 @@ button:hover {
     display: flex;
     height: 43vh;
     width: 100vw;
-    //background-color: antiquewhite;
+    /*background-color: antiquewhite;*/
     margin-top: 20vh;
     margin-left: 50px;
     gap: 10px;
@@ -800,7 +800,7 @@ button:hover {
     height: 10px;
     width: 90px;
     padding: 0 20vw;
-    //background-color: aqua;
+    /*background-color: aqua;*/
     margin-top: 14vh;
     align-items: center;
     justify-content: center;
@@ -831,7 +831,7 @@ button:hover {
     display: flex;
     height: 43vh;
     width: 100vw;
-    //background-color: antiquewhite;
+    /*background-color: antiquewhite;*/
     margin-top: 20vh;
     margin-left: 50px;
     gap: 10px;
@@ -851,14 +851,14 @@ button:hover {
 #startHere {
     height: 200px;
     width: 100%;
-    // background-color: aquamarine;
+    /* background-color: aquamarine;*/
     margin-top: 50px;
 }
 
 #needHelp {
     height: 40px;
     width: 470px;
-    // background-color: aqua;
+    /* background-color: aqua;*/
     padding-left: 50px;
 }
 
@@ -871,7 +871,7 @@ button:hover {
 
 #pictures {
     width: 100%;
-    //background-color: bisque;
+    /*background-color: bisque;*/
     margin-top: -8px;
     margin-left: 50px;
 }
@@ -930,7 +930,7 @@ button:hover {
 .t {
     width: 120px;
     height: 20px;
-    //  background-color: aquamarine;
+    /*  background-color: aquamarine;*/
 }
 
 .t h4 {
@@ -942,7 +942,7 @@ button:hover {
 #shop {
     height: 60px;
     width: 100%;
-    //background-color: aqua;
+    /*background-color: aqua;*/
     margin-top: 60px;
 }
 
