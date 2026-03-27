@@ -267,10 +267,10 @@ i:hover {
     height: 70vh;
     width: 32vw;
     border-radius: 10px;
-    /* animation-name: anime;
+  /*  animation-name: anime;
     animation-duration: 10s;
     animation-iteration-count: infinte;
-    animation-timing-function: linear; */
+    animation-timing-function: linear;*/
 }
 
 .elem img:hover {
@@ -279,21 +279,57 @@ i:hover {
 
 .offer {
     height: 100px;
-    width: 100%;
+    width: 150%;
     background-color: #faebd7;
     display: flex;
     margin-left: 0px;
+   /*animation-name: anime;
+    animation-duration: 45s;
+    animation-iteration-count: infinte;
+    animation-timing-function: linear;*/
 }
 
 #t1 {
     height: 20px;
-    width: 180px;
-    background-color: aqua;
-    margin-top: -440px;
+    width: 190px;
+    //background-color: aqua;
+    margin-top: -450px;
     margin-left: 80px;
 }
 
+#t2 {
+    height: 20px;
+    width: 300px;
+    background-color: aqua;
+    margin-top: -450px;
+    margin-left: 275px;
+}
+
+#t3 {
+    height: 20px;
+    width: 300px;
+    //background-color: aqua;
+    margin-top: -450px;
+    margin-left: 165px;
+}
+
+#t4 {
+    height: 20px;
+    width: 300px;
+    //background-color: aqua;
+    margin-top: -450px;
+    margin-left: 80px;
+}
+
+
 .offer h2 {
+    font-family: Inter, Inter;
+    font-size: 27px;
+    font-weight: 600;
+    color: white;
+}
+
+.offer h3 {
     font-family: Inter, Inter;
     font-size: 24px;
     font-weight: 600;
