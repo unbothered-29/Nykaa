@@ -409,7 +409,7 @@ i:hover {
 #min {
     height: 85%;
     width: 100%;
-    background-color: rgb(239, 244, 248);
+    background-color: rgb(232, 245, 255);
     margin-top: 4vh;
 }
 
@@ -509,10 +509,10 @@ button:hover {
 }
 
 #pg-3 .product img {
-    height: 150px;
+    height: 165px;
     align-items: flex-start;
     justify-content: flex-start;
-    margin-right: -175px;
+    margin-right: -178px;
     border-radius: 10px;
 }
 
