@@ -816,3 +816,44 @@ button:hover {
 #pictures img:hover {
     cursor: pointer;
 }
+
+#makeupFest {
+    height: 100vh;
+    width: 100%;
+    margin-top: 50px;
+}
+
+#nude {
+    height: 350px;
+    width: 100%;
+}
+
+#nude img {
+    height: 350px;
+    width: 100%;
+}
+
+#house {
+    margin-left:60px;
+}
+
+#etude {
+    height: 300px;
+    width: 100%;
+    background-color: rgb(250, 229, 195);
+}
+
+#etude img {
+    height: 200px;
+    margin-top: 25px;
+   margin-left: 10px;
+}
+
+#earth {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(187, 0, 255);
+    display: flex;
+    gap: 50px;
+    margin-left: 50px;
+}
