@@ -267,14 +267,37 @@ i:hover {
     height: 70vh;
     width: 32vw;
     border-radius: 10px;
-    animation-name: anime;
+    /* animation-name: anime;
     animation-duration: 10s;
     animation-iteration-count: infinte;
-    animation-timing-function: linear;
+    animation-timing-function: linear; */
 }
 
 .elem img:hover {
     cursor: pointer;
+}
+
+.offer {
+    height: 100px;
+    width: 100%;
+    background-color: #faebd7;
+    display: flex;
+    margin-left: 0px;
+}
+
+#t1 {
+    height: 20px;
+    width: 180px;
+    background-color: aqua;
+    margin-top: -440px;
+    margin-left: 80px;
+}
+
+.offer h2 {
+    font-family: Inter, Inter;
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
 }
 
 #h {
