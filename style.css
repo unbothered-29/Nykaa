@@ -750,6 +750,10 @@ button:hover {
     border-radius: 10px;
 }
 
+.image img:hover {
+    cursor: pointer;
+}
+
 #startHere {
     height: 200px;
     width: 100%;
