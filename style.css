@@ -707,6 +707,75 @@ button:hover {
     white-space: nowrap;
 }
 
+#bigDeals {
+    margin-top: 440px;
+    height: 500px;
+    width: 100%;
+    //  background-color: aquamarine;
+}
+
+#incoming {
+    height: 17vh;
+    width: 130vw;
+}
+
+#incoming img {
+    height: 17vh;
+    width: 130vw;
+    padding-right: 270px;
+    margin-left: -60px;
+}
+
+#sunscreen {
+    height: 75%;
+    width: 100%;
+    margin-top: 5vh;
+    //background-color: antiquewhite;
+}
+
+#sunscreen img {
+    height: 48vh;
+    width: 92vw;
+    margin-left: 8vh;
+    border-radius: 10px;
+}
+
+#formulation {
+    height: 200px;
+    margin-left: 45px;
+}
+
+#formulation img {
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+#cream {
+    height: 20px;
+    width: 95%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.derma {
+    height: 20px;
+    width: 200px;
+    background-color: aquamarine;
+    margin-left: 20px;
+}
+
+.derma h3 {
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(0, 09, 37);
+}
+
 #newAtNykaa {
     height: 10vh;
     width: 10vw;
@@ -856,14 +925,16 @@ button:hover {
     gap: 6.3vw;
     margin-left: 60px;
     white-space: nowrap;
-    margin-top:10px ;
+    margin-top: 10px;
 }
-.t{
+
+.t {
     width: 120px;
     height: 20px;
-  //  background-color: aquamarine;
+    //  background-color: aquamarine;
 }
-.t h4{
+
+.t h4 {
     font-weight: 400;
     color: rgb(0, 09, 37);
     font-size: 16px;
