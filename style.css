@@ -834,7 +834,7 @@ button:hover {
 }
 
 #house {
-    margin-left:60px;
+    margin-left: 55px;
 }
 
 #etude {
@@ -846,14 +846,25 @@ button:hover {
 #etude img {
     height: 200px;
     margin-top: 25px;
-   margin-left: 10px;
+    margin-left: 5px;
 }
 
 #earth {
     height: 50px;
-    width: 100%;
-    background-color: rgb(187, 0, 255);
+    width: 80%;
     display: flex;
-    gap: 50px;
-    margin-left: 50px;
+    gap: 6.3vw;
+    margin-left: 60px;
+    white-space: nowrap;
+    margin-top:10px ;
+}
+.t{
+    width: 120px;
+    height: 20px;
+  //  background-color: aquamarine;
+}
+.t h4{
+    font-weight: 400;
+    color: rgb(0, 09, 37);
+    font-size: 16px;
 }
