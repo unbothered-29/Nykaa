@@ -938,3 +938,22 @@ button:hover {
     color: rgb(0, 09, 37);
     font-size: 16px;
 }
+
+#shop {
+    height: 60px;
+    width: 100%;
+    //background-color: aqua;
+    margin-top: 60px;
+}
+
+#shop button {
+    height: 40px;
+    width: 90%;
+    background-color: rgb(232, 0, 112);
+    color: white;
+    margin-left: 5%;
+    border-color: rgb(232, 0, 112);
+    border-radius: 10px;
+    font-size: 17px;
+    border-bottom: rgb(232, 0, 112);
+}
