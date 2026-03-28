@@ -1033,7 +1033,13 @@ button:hover {
     border: none;
     border-bottom: 2px solid white;
     margin-top: 5px;
-    padding-bottom: 10px;
+    padding-bottom: 7px;
+}
+
+.inputGroup input::placeholder {
+    color: white;
+    margin-top: 10px;
+    font-size: 15px;
 }
 
 #send button {
