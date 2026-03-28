@@ -228,6 +228,7 @@ i:hover {
 #nav3 button:hover {
     cursor: pointer;
 }
+
 /*nav3 makeup skin hair etc */
 #nav-2 {
     height: 3.7vw;
@@ -254,6 +255,7 @@ i:hover {
     cursor: pointer;
 }
 
+/*big images*/
 #content {
     height: calc(100% - 120px);
     width: 100%;
