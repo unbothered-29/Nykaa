@@ -680,6 +680,10 @@ button:hover {
     height: 30vh;
 }
 
+#mac img:hover {
+    cursor: pointer;
+}
+
 #mac h4 {
     font-weight: 500;
     font-size: 2.3vh;
@@ -762,6 +766,10 @@ button:hover {
     margin-left: 10px;
 }
 
+#formulation img:hover {
+    cursor: pointer;
+}
+
 #cream {
     width: 100%;
     display: flex;
@@ -804,6 +812,10 @@ button:hover {
 
 .images img {
     border-radius: 10px;
+}
+
+.images img:hover {
+    cursor: pointer;
 }
 
 #viewAll {
@@ -927,6 +939,10 @@ button:hover {
     margin-left: 5px;
 }
 
+#etude img:hover {
+    cursor: pointer;
+}
+
 #earth {
     height: 50px;
     width: 80%;
@@ -1003,19 +1019,18 @@ button:hover {
     margin-top: -20px;
 }
 
-#special {
+.special {
     display: flex;
     gap: 5px;
     color: white;
-
 }
 
-#special h4 {
+.special h4 {
     font-weight: 500;
     font-weight: 14px;
 }
 
-#special i {
+.special i {
     font-size: 20px;
 }
 
