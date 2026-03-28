@@ -1000,6 +1000,7 @@ button:hover {
     height: 50px;
     width: 330px;
     /* background-color: antiquewhite; */
+    margin-top: -20px;
 }
 
 #special {
@@ -1055,12 +1056,23 @@ button:hover {
 }
 
 #appStore {
-   height: 100px;
-   width: 310px;
-   margin-top:-15px;
+    height: 100px;
+    width: 310px;
+    margin-top: -15px;
 }
 
 #appStore img {
     height: 100px;
     width: 330px;
+}
+
+#days {
+    margin-top: 15px;
+    margin-left: 24px;
+    color: white;
+}
+
+#days h4 {
+    font-weight: 400;
+    font-size: 15px;
 }
