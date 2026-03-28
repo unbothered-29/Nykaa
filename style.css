@@ -44,6 +44,7 @@ body {
     font-weight: 500;
     font-family: poppins;
 }
+
 /*get app , store&events , gift card , help*/
 .card {
     display: flex;
@@ -91,6 +92,7 @@ body {
     font-size: 1.6vw;
     color: rgba(0, 0, 0, 0.756);
 }
+
 /*nykaa nav 2*/
 #nav {
     height: 70px;
@@ -110,7 +112,8 @@ body {
     /* height of #n1 */
     z-index: 999;
 }
-/**/
+
+/*categories,brands,luxe,etc*/
 #nav1 {
     width: 100vw;
     /* background-color: blue; */
@@ -133,6 +136,7 @@ body {
     cursor: pointer;
 }
 
+/*search on nykaa*/
 #nav2 {
     height: 6.4vh;
     width: 150vw;
@@ -175,6 +179,7 @@ body {
     margin-left: 1vw;
 }
 
+/*Sign in*/
 #nav3 {
     width: 70%;
     /*background-color: aqua;*/
@@ -199,6 +204,7 @@ body {
     white-space: nowrap;
 }
 
+/*shopping bag icon*/
 #icon i {
     /*background-color: aqua;*/
     margin-left: -3vh;
