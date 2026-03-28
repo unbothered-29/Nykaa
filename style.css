@@ -998,7 +998,7 @@ button:hover {
 
 .inbox {
     height: 50px;
-    width: 300px;
+    width: 330px;
     /* background-color: antiquewhite; */
 }
 
@@ -1006,6 +1006,7 @@ button:hover {
     display: flex;
     gap: 5px;
     color: white;
+
 }
 
 #special h4 {
@@ -1030,8 +1031,8 @@ button:hover {
 
 .inputGroup input {
     width: 180px;
-  /*  background-color: aqua; */
-    background-color: rgb(59, 65, 71); 
+    /*  background-color: aqua; */
+    background-color: rgb(59, 65, 71);
     border: none;
     border-bottom: 2px solid white;
     margin-top: 5px;
@@ -1051,4 +1052,15 @@ button:hover {
     color: white;
     border-radius: 2px;
     border: 1px solid white;
+}
+
+#appStore {
+   height: 100px;
+   width: 310px;
+   margin-top:-15px;
+}
+
+#appStore img {
+    height: 100px;
+    width: 330px;
 }
