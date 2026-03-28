@@ -44,7 +44,7 @@ body {
     font-weight: 500;
     font-family: poppins;
 }
-
+/*get app , store&events , gift card , help*/
 .card {
     display: flex;
     width: 70vw;
