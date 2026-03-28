@@ -1019,18 +1019,21 @@ button:hover {
 
 #send {
     display: flex;
-    gap: 10px;
+    gap: 15px;
     margin-left: 20px;
     margin-top: 5px;
 }
 
 .inputGroup {
-    height: 50px;
+    height: 100px;
 }
 
 .inputGroup input {
     background-color: rgb(59, 65, 71);
     border: none;
+    border-bottom: 2px solid white;
+    margin-top: 5px;
+    padding-bottom: 10px;
 }
 
 #send button {
