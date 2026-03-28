@@ -1003,6 +1003,15 @@ button:hover {
     color: white;
 }
 
+#special h4 {
+    font-weight: 500;
+    font-weight: 15px;
+}
+
+#special i {
+    font-size: 20px;
+}
+
 #send {
     display: flex;
     gap: 10px;
