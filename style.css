@@ -1020,8 +1020,8 @@ button:hover {
 #send {
     display: flex;
     gap: 15px;
-    margin-left: 20px;
-    margin-top: 5px;
+    margin-top: 15px;
+    margin-left: 5px;
 }
 
 .inputGroup {
@@ -1029,22 +1029,24 @@ button:hover {
 }
 
 .inputGroup input {
-    background-color: rgb(59, 65, 71);
+    width: 180px;
+  /*  background-color: aqua; */
+    background-color: rgb(59, 65, 71); 
     border: none;
     border-bottom: 2px solid white;
     margin-top: 5px;
-    padding-bottom: 7px;
+    padding-bottom: 12px;
 }
 
 .inputGroup input::placeholder {
     color: white;
-    margin-top: 10px;
     font-size: 15px;
+    font-weight: 500;
 }
 
 #send button {
-    height: 30px;
-    width: 65px;
+    height: 35px;
+    width: 75px;
     background-color: rgb(59, 65, 71);
     color: white;
     border-radius: 2px;
