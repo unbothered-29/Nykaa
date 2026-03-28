@@ -91,7 +91,7 @@ body {
     font-size: 1.6vw;
     color: rgba(0, 0, 0, 0.756);
 }
-
+/*nykaa nav 2*/
 #nav {
     height: 70px;
     width: 100%;
@@ -110,7 +110,7 @@ body {
     /* height of #n1 */
     z-index: 999;
 }
-
+/**/
 #nav1 {
     width: 100vw;
     /* background-color: blue; */
