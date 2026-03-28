@@ -988,7 +988,7 @@ button:hover {
 }
 
 #experience {
-    height: 230px;
+    height: 180px;
     width: 100%;
     background-color: rgb(59, 65, 71);
     display: flex;
@@ -1024,7 +1024,9 @@ button:hover {
     margin-top: 5px;
 }
 
-.inputGroup {}
+.inputGroup {
+    height: 50px;
+}
 
 #send button {
     height: 30px;
