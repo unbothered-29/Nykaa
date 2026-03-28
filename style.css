@@ -1146,3 +1146,8 @@ button:hover {
     font-size: 14px;
     font-weight: 300;
 }
+
+.press h5:hover {
+    cursor: pointer;
+    color: rgb(232, 0, 112);
+}
