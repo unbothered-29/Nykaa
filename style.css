@@ -1082,25 +1082,67 @@ button:hover {
 }
 
 #who {
-    height: 500px;
+    height: 480px;
     width: 100%;
     background-color: rgb(141, 141, 148);
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
+.are {
+    height: 40px;
+    width: 100px;
+    /*  background-color: blueviolet; */
+    margin-left: -70px;
+    margin-top: 20px;
+}
+
+.are img {
+    height: 22px;
+    width: 70px;
+    margin-top: 50px;
 }
 
 .areWe {
-    height: 200px;
-    width: 200px;
-    background-color: blueviolet;
+    height: 40px;
+    width: 100px;
+    /*  background-color: blueviolet; */
+    margin-top: 58px;
 }
 
-.areWe img {
-    height: 25px;
-    width: 80px;
+.top {
+    height: 20px;
+    width: 150px;
+    /*  background-color: chocolate; */
+    color: white;
+    margin-left: -15px;
+}
+
+.top h4 {
+    font-family: Inter, Roboto, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
 }
 
 .careers {
-    height: 200px;
-    width: 130px;
-    background-color: black;
+    height: 300px;
+    width: 180px;
+    /*  background-color: black; */
     color: white;
+    margin-top: 30px;
+    margin-left: -10px;
+}
+
+.press {
+    / * background-color: rgb(1, 77, 77);
+    */ height: 20px;
+    width: 200px;
+    margin-bottom: 15px;
+}
+
+.press h5 {
+    font-family: Inter, Roboto, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
 }
