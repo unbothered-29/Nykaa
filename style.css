@@ -212,6 +212,7 @@ body {
     font-weight: 300;
 }
 
+/*nykaa img*/
 #nav img {
     height: 70px;
 }
@@ -227,7 +228,7 @@ i:hover {
 #nav3 button:hover {
     cursor: pointer;
 }
-
+/*nav3 makeup skin hair etc */
 #nav-2 {
     height: 3.7vw;
     width: 100%;
