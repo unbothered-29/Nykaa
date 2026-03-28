@@ -1086,3 +1086,21 @@ button:hover {
     width: 100%;
     background-color: rgb(141, 141, 148);
 }
+
+.areWe {
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+}
+
+.areWe img {
+    height: 25px;
+    width: 80px;
+}
+
+.careers {
+    height: 200px;
+    width: 130px;
+    background-color: black;
+    color: white;
+}
