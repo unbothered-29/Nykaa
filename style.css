@@ -1043,7 +1043,7 @@ button:hover {
 .inputGroup input::placeholder {
     color: white;
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 #send button {
@@ -1064,6 +1064,10 @@ button:hover {
 #appStore img {
     height: 100px;
     width: 330px;
+}
+
+#appStore img:hover {
+    cursor: pointer;
 }
 
 #days {
