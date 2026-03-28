@@ -979,7 +979,7 @@ button:hover {
     width: 500px;
     /* background-color: aqua; */
     margin-left: 55px;
-    margin-top: -15px;
+    margin-top: -5px;
 }
 
 #beautyStore h2 {
@@ -988,7 +988,7 @@ button:hover {
 }
 
 #experience {
-    height: 250px;
+    height: 230px;
     width: 100%;
     background-color: rgb(59, 65, 71);
     display: flex;
@@ -1022,4 +1022,15 @@ button:hover {
     gap: 10px;
     margin-left: 20px;
     margin-top: 5px;
+}
+
+.inputGroup {}
+
+#send button {
+    height: 30px;
+    width: 65px;
+    background-color: rgb(59, 65, 71);
+    color: white;
+    border-radius: 2px;
+    border: 1px solid white;
 }
