@@ -1178,6 +1178,12 @@ button:hover {
 .authentic{
     display: flex;
 }
-.orders{
+.ship{
 
+}
+.orders{
+height: 50px;
+width: 130px;
+background-color: aqua;
+margin-left: 10px;
 }
