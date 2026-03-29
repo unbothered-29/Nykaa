@@ -1176,6 +1176,11 @@ button:hover {
     justify-content: space-evenly;
 }
 
+.ship img {
+    margin-top: 10px;
+    height: 53px;
+}
+
 .authentic {
     display: flex;
 }
