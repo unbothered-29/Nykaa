@@ -1167,3 +1167,17 @@ button:hover {
     cursor: pointer;
     color: rgb(232, 0, 112);
 }
+
+#social{
+    height: 160px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.authentic{
+    display: flex;
+}
+.orders{
+
+}
