@@ -1187,9 +1187,23 @@ button:hover {
     margin-left: 10px;
 }
 
+.ree {
+    height: 44px;
+    /*  background-color: aquamarine; */
+    border-bottom: 2px solid rgba(0, 0, 0, 0.11);
+}
+
+.ree h4 {
+    font-weight: 500;
+    font-family: Inter, Roboto, Arial, sans-serif;
+    color: rgb(58, 64, 71);
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
 .free {
     height: 30px;
-    /*   background-color: aquamarine; */
+    /*  background-color: aquamarine; */
     border-bottom: 2px solid rgba(0, 0, 0, 0.11);
 }
 
@@ -1218,13 +1232,13 @@ button:hover {
 .love {
     height: 55px;
     width: 230px;
-    background-color: aqua;
+    /*   background-color: aqua; */
 }
 
 .show {
     height: 35px;
     width: 230px;
-    background-color: blueviolet;
+    /*  background-color: blueviolet; */
 }
 
 .show h4 {
@@ -1236,5 +1250,13 @@ button:hover {
 }
 
 .facebook {
+    height: 25px;
+    width: 180px;
     display: flex;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.facebook img {
+    margin-left: 10px;
 }
