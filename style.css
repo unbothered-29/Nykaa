@@ -1265,3 +1265,7 @@ button:hover {
 .facebook img {
     margin-left: 10px;
 }
+
+.facebook img:hover{
+    cursor: pointer;
+}
