@@ -1282,8 +1282,9 @@ button:hover {
 }
 
 .condition {
-    padding: 0 480px;
+    padding: 0 490px;
     display: flex;
+    margin-top: 25px;
 }
 
 .policy {
