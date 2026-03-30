@@ -1282,9 +1282,13 @@ button:hover {
 }
 
 .condition {
-    padding: 0 500px;
+    height: 30px;
+    width: 100%;
+    padding: 0 530px;
     display: flex;
     margin-top: 25px;
+  /*  background-color: antiquewhite; */
+    white-space: nowrap;
 }
 
 .policy {
