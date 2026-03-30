@@ -1311,6 +1311,9 @@ button:hover {
 }
 
 .links h3 {
+    font-weight: 600;
+    color: rgb(140, 141, 148);
+    font-size: 16px;
     font-family: Inter, Roboto, Arial, sans-serif;
 }
 
