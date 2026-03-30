@@ -1281,12 +1281,24 @@ button:hover {
     display: flex;
 }
 
+.condition {
+    padding: 0 480px;
+    display: flex;
+}
+
 .policy {
     margin-left: 13px;
     margin-top: 15px;
 }
 
 .policy h4 {
+    color: white;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: Inter, Roboto, Arial, sans-serif;
+}
+
+.retail h4 {
     color: white;
     font-size: 13px;
     font-weight: 500;
