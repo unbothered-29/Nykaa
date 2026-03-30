@@ -1310,8 +1310,13 @@ button:hover {
     font-family: Inter, Roboto, Arial, sans-serif;
 }
 
+.links h3 {
+    font-family: Inter, Roboto, Arial, sans-serif;
+}
+
 .lipstick p {
     font-size: 15px;
     font-weight: 400;
     color: rgb(140, 141, 148);
+    font-family: Inter, Roboto, Arial, sans-serif;
 }
