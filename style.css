@@ -1310,6 +1310,17 @@ button:hover {
     font-family: Inter, Roboto, Arial, sans-serif;
 }
 
+#popular {
+    padding: 0 100px;
+    margin-top: 20px;
+}
+
+.links {
+    margin-bottom: 5px;
+}
+
+.lipstick {}
+
 .links h3 {
     font-weight: 600;
     color: rgb(140, 141, 148);
