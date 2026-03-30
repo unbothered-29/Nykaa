@@ -1271,7 +1271,16 @@ button:hover {
 }
 
 #terms {
-    height: 50px;
+    height: 100px;
     width: 100%;
     background-color: rgb(232, 0, 112);
+}
+
+.conditions {
+    padding: 0 400px;
+    display: flex;
+}
+.policy{
+    margin-left: 13px;
+    
 }
