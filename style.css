@@ -1266,11 +1266,12 @@ button:hover {
     margin-left: 10px;
 }
 
-.facebook img:hover{
+.facebook img:hover {
     cursor: pointer;
 }
 
-#terms{
+#terms {
     height: 50px;
     width: 100%;
+    background-color: rgb(232, 0, 112);
 }
