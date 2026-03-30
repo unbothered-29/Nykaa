@@ -1334,3 +1334,7 @@ button:hover {
     color: rgb(140, 141, 148);
     font-family: Inter, Roboto, Arial, sans-serif;
 }
+
+.lipstick p:hover {
+    cursor: pointer;
+}
