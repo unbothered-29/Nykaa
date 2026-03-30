@@ -1269,3 +1269,8 @@ button:hover {
 .facebook img:hover{
     cursor: pointer;
 }
+
+#terms{
+    height: 50px;
+    width: 100%;
+}
