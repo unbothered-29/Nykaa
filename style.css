@@ -1004,6 +1004,7 @@ button:hover {
     font-weight: 600;
     font-weight: 20px;
 }
+
 /*Dark grey div*/
 #experience {
     height: 180px;
@@ -1014,6 +1015,7 @@ button:hover {
     justify-content: space-evenly;
 }
 
+/*3 divs*/
 .inbox {
     height: 50px;
     width: 330px;
