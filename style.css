@@ -1023,6 +1023,7 @@ button:hover {
     margin-top: -20px;
 }
 
+/*mail section*/
 .special {
     display: flex;
     gap: 5px;
@@ -1073,7 +1074,7 @@ button:hover {
     border-radius: 2px;
     border: 1px solid white;
 }
-
+/*appstore playstore img section*/
 #appStore {
     height: 100px;
     width: 310px;
