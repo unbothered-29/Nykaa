@@ -1074,6 +1074,7 @@ button:hover {
     border-radius: 2px;
     border: 1px solid white;
 }
+
 /*appstore playstore img section*/
 #appStore {
     height: 100px;
@@ -1090,6 +1091,7 @@ button:hover {
     cursor: pointer;
 }
 
+/*all days text*/
 #days {
     margin-top: 15px;
     margin-left: 24px;
