@@ -255,13 +255,14 @@ i:hover {
     cursor: pointer;
 }
 
-/*big images*/
+/*big images section*/
 #content {
     height: calc(100% - 120px);
     width: 100%;
     /*background-color: aqua;*/
 }
 
+/*images div*/
 .elem {
     height: 55vw;
     width: 100%;
