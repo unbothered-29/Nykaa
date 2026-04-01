@@ -325,6 +325,7 @@ i:hover {
     /*background-color: aqua; */
 }
 
+/*icon and text containing div*/
 #help {
     position: fixed;
     bottom: 0px;
@@ -356,6 +357,7 @@ i:hover {
     cursor: pointer;
 }
 
+/*page 2*/
 #pg-2 img {
     height: 17vh;
     width: 95%;
