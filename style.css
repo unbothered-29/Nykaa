@@ -1254,12 +1254,14 @@ button:hover {
     font-size: 13px;
 }
 
+/*show us some love on social media*/
 .love {
     height: 55px;
     width: 230px;
     /*   background-color: aqua; */
 }
 
+/*text*/
 .show {
     height: 35px;
     width: 230px;
@@ -1274,6 +1276,7 @@ button:hover {
     text-align: center;
 }
 
+/*logos*/
 .facebook {
     height: 25px;
     width: 180px;
@@ -1290,6 +1293,7 @@ button:hover {
     cursor: pointer;
 }
 
+/*pink section*/
 #terms {
     height: 95px;
     width: 100%;
