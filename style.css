@@ -293,6 +293,7 @@ i:hover {
     gap: 135px;
 }
 
+/*the texts on the images*/
 .text {
     height: 20px;
     width: 250px;
@@ -301,6 +302,7 @@ i:hover {
     margin-left: 80px;
 }
 
+/*Up to 30% off*/
 .offer h2 {
     font-family: Inter, Inter;
     font-size: 27px;
@@ -308,6 +310,7 @@ i:hover {
     color: white;
 }
 
+/*On Bestsellers!*/
 .offer h3 {
     font-family: Inter, Inter;
     font-size: 22px;
