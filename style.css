@@ -1338,12 +1338,14 @@ button:hover {
     font-family: Inter, Roboto, Arial, sans-serif;
 }
 
+/*popular links section*/
 #popular {
     height: 265px;
     padding: 0 110px;
     background-color: rgb(242, 242, 242);
 }
 
+/*popular links text*/
 .links {
     margin-bottom: 5px;
     padding-top: 35px;
