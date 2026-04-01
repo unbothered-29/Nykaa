@@ -1231,19 +1231,20 @@ button:hover {
     border-bottom: 2px solid rgba(0, 0, 0, 0.11);
 }
 
-.above {
-    height: 20px;
-    width: 140px;
-    /* background-color: bisque;*/
-    margin-top: 10px;
-}
-
 .free h4 {
     font-weight: 500;
     font-family: Inter, Roboto, Arial, sans-serif;
     color: rgb(58, 64, 71);
     font-size: 15px;
     text-transform: uppercase;
+}
+
+/*on orders above 299*/
+.above {
+    height: 20px;
+    width: 140px;
+    /* background-color: bisque;*/
+    margin-top: 10px;
 }
 
 .above h5 {
