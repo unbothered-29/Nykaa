@@ -1300,11 +1300,13 @@ button:hover {
     background-color: rgb(232, 0, 112);
 }
 
+/*4 white texts*/
 .conditions {
     padding: 0 430px;
     display: flex;
 }
 
+/*white text sentence*/
 .condition {
     height: 30px;
     width: 100%;
@@ -1315,6 +1317,7 @@ button:hover {
     white-space: nowrap;
 }
 
+/*terms and conditons etc*/
 .policy {
     margin-left: 25px;
     margin-top: 20px;
@@ -1327,6 +1330,7 @@ button:hover {
     font-family: Inter, Roboto, Arial, sans-serif;
 }
 
+/*© 2026 NYKAA E-RETAIL LIMITED All Rights Reserved.*/
 .retail h4 {
     color: white;
     font-size: 13.5px;
