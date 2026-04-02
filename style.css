@@ -779,6 +779,7 @@ button:hover {
     margin-left: -60px;
 }
 
+/*big yellow img*/
 #sunscreen {
     height: 75%;
     width: 100%;
@@ -793,6 +794,7 @@ button:hover {
     border-radius: 10px;
 }
 
+/* div of all product imgs*/
 #formulation {
     height: 200px;
     margin-left: 45px;
