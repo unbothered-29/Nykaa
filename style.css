@@ -463,6 +463,7 @@ i:hover {
     margin-top: 4vh;
 }
 
+/*left button*/
 #left {
     height: 10vh;
     width: 10vh;
@@ -491,6 +492,7 @@ button:hover {
     cursor: pointer;
 }
 
+/*right button*/
 #right {
     height: 10vh;
     width: 10vh;
