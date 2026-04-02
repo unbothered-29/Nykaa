@@ -608,6 +608,7 @@ button:hover {
     color: rgba(0, 0, 0, 0.45);
 }
 
+/*logo and quantity of product*/
 #two {
     /*background-color: burlywood;*/
     display: flex;
