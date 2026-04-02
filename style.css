@@ -518,6 +518,7 @@ button:hover {
     color: rgba(0, 0, 0, 0.336);
 }
 
+/*rectangular big img*/
 #dot img {
     height: 35vh;
     width: 120vw;
