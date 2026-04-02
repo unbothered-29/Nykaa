@@ -758,6 +758,7 @@ button:hover {
 }
 
 /*page 5*/
+/*main div*/
 #bigDeals {
     margin-top: 440px;
     height: 500px;
@@ -765,6 +766,7 @@ button:hover {
     /* background-color: aquamarine;*/
 }
 
+/*big deals incoming img*/
 #incoming {
     height: 17vh;
     width: 130vw;
