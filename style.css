@@ -529,6 +529,7 @@ button:hover {
     justify-content: center;
 }
 
+/*text on the img*/
 #off {
     height: 10vh;
     width: 20vw;
@@ -539,6 +540,7 @@ button:hover {
     margin-top: -75px;
 }
 
+/*Upto 40% off*/
 #off h2 {
     font-weight: 500;
 }
