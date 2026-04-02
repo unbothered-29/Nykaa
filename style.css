@@ -419,6 +419,7 @@ i:hover {
         transform: translateX(-100%);
     }
 }
+
 /*page 3*/
 #pg-3 {
     height: 100%;
@@ -427,6 +428,7 @@ i:hover {
     padding-left: 0;
 }
 
+/*exclusive launch alert image*/
 #pg-3 img {
     height: 17vh;
     width: 130vw;
