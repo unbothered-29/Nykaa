@@ -647,15 +647,6 @@ button:hover {
 }
 
 /*actual price*/
-#five h4 {
-    font-weight: 400;
-    margin-left: 5px;
-}
-
-#six h4 {
-    font-weight: 500;
-}
-
 #five {
     height: 2vh;
     width: 5.5vw;
@@ -667,12 +658,22 @@ button:hover {
     text-decoration: line-through;
 }
 
+#five h4 {
+    font-weight: 400;
+    margin-left: 5px;
+}
+
+/*% of discount*/
 #six {
     height: 2vh;
     width: 3.5vw;
     /*background-color: beige;*/
     margin-top: 10px;
     color: green;
+}
+
+#six h4 {
+    font-weight: 500;
 }
 
 .name :hover {
