@@ -634,6 +634,7 @@ button:hover {
     margin-top: -3px;
 }
 
+/*discount price*/
 #four {
     height: 2vh;
     width: 3.5vw;
@@ -645,6 +646,7 @@ button:hover {
     font-weight: 500;
 }
 
+/*actual price*/
 #five h4 {
     font-weight: 400;
     margin-left: 5px;
