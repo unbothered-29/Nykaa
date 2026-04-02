@@ -724,6 +724,7 @@ button:hover {
     margin-top: 0.8vw;
 }
 
+/*2nd row of products*/
 #div2 {
     width: 100%;
     height: 35vh;
@@ -733,6 +734,7 @@ button:hover {
     margin-top: 2vw;
 }
 
+/*exlpore all button*/
 #brand {
     height: 5vh;
     width: 20vw;
