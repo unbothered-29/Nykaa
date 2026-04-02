@@ -811,6 +811,7 @@ button:hover {
     cursor: pointer;
 }
 
+/*div of all product names*/
 #cream {
     width: 100%;
     display: flex;
@@ -820,6 +821,7 @@ button:hover {
     /*background-color: aqua;*/
 }
 
+/*product names*/
 .derma {
     width: 220px;
     text-align: left;
