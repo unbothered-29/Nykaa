@@ -625,6 +625,7 @@ button:hover {
     color: rgba(0, 0, 0, 0.45);
 }
 
+/*price of the product*/
 #price {
     height: 3vh;
     width: 10vw;
