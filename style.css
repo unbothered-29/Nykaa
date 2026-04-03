@@ -835,6 +835,7 @@ button:hover {
     color: rgb(0, 9, 37);
     margin-top: 7px;
 }
+
 /*new at nykaa section*/
 #newAtNykaa {
     height: 10vh;
@@ -843,6 +844,7 @@ button:hover {
     margin-top: 29vw;
 }
 
+/*product images*/
 .images {
     display: flex;
     height: 43vh;
@@ -861,6 +863,7 @@ button:hover {
     cursor: pointer;
 }
 
+/*view all button*/
 #viewAll {
     height: 10px;
     width: 90px;
