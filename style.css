@@ -943,11 +943,12 @@ button:hover {
     color: rgb(0, 19, 37);
 }
 
+/*photos*/
 #pictures {
     width: 100%;
     /*background-color: bisque;*/
-margin-top: -8px;
-margin-left: 50px;
+    margin-top: -8px;
+    margin-left: 50px;
 }
 
 #pictures img {
