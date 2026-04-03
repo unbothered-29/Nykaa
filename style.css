@@ -920,6 +920,7 @@ button:hover {
     cursor: pointer;
 }
 
+/*Need Help Choosing? Start Here!*/
 #startHere {
     height: 200px;
     width: 100%;
@@ -934,6 +935,7 @@ button:hover {
     padding-left: 50px;
 }
 
+/*text*/
 #needHelp h2 {
     font-family: Inter, Inter;
     font-weight: 600;
@@ -944,8 +946,8 @@ button:hover {
 #pictures {
     width: 100%;
     /*background-color: bisque;*/
-    margin-top: -8px;
-    margin-left: 50px;
+margin-top: -8px;
+margin-left: 50px;
 }
 
 #pictures img {
