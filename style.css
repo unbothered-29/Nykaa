@@ -920,12 +920,14 @@ button:hover {
     cursor: pointer;
 }
 
+/*nykaa makeup fest section*/
 #makeupFest {
     height: 93vh;
     width: 100%;
     margin-top: 50px;
 }
 
+/*big img*/
 #nude {
     height: 350px;
     width: 100%;
@@ -936,14 +938,15 @@ button:hover {
     width: 100%;
 }
 
-#house {
-    margin-left: 55px;
-}
-
+/*the product section*/
 #etude {
     height: 300px;
     width: 100%;
     background-color: rgb(250, 229, 195);
+}
+
+#house {
+    margin-left: 55px;
 }
 
 #etude img {
