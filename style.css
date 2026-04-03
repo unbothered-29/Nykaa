@@ -920,46 +920,6 @@ button:hover {
     cursor: pointer;
 }
 
-/*Need Help Choosing? Start Here!*/
-#startHere {
-    height: 200px;
-    width: 100%;
-    /* background-color: aquamarine;*/
-    margin-top: 50px;
-}
-
-#needHelp {
-    height: 40px;
-    width: 470px;
-    /* background-color: aqua;*/
-    padding-left: 50px;
-}
-
-/*text*/
-#needHelp h2 {
-    font-family: Inter, Inter;
-    font-weight: 600;
-    font-size: 26px;
-    color: rgb(0, 19, 37);
-}
-
-/*photos*/
-#pictures {
-    width: 100%;
-    /*background-color: bisque;*/
-    margin-top: -8px;
-    margin-left: 50px;
-}
-
-#pictures img {
-    height: 126px;
-    margin-right: 20px;
-}
-
-#pictures img:hover {
-    cursor: pointer;
-}
-
 #makeupFest {
     height: 93vh;
     width: 100%;
@@ -1016,6 +976,46 @@ button:hover {
     font-weight: 400;
     color: rgb(0, 09, 37);
     font-size: 16px;
+}
+
+/*Need Help Choosing? Start Here!*/
+#startHere {
+    height: 200px;
+    width: 100%;
+    /* background-color: aquamarine;*/
+    margin-top: 50px;
+}
+
+#needHelp {
+    height: 40px;
+    width: 470px;
+    /* background-color: aqua;*/
+    padding-left: 50px;
+}
+
+/*text*/
+#needHelp h2 {
+    font-family: Inter, Inter;
+    font-weight: 600;
+    font-size: 26px;
+    color: rgb(0, 19, 37);
+}
+
+/*photos*/
+#pictures {
+    width: 100%;
+    /*background-color: bisque;*/
+    margin-top: -8px;
+    margin-left: 50px;
+}
+
+#pictures img {
+    height: 126px;
+    margin-right: 20px;
+}
+
+#pictures img:hover {
+    cursor: pointer;
 }
 
 /*shop all button*/
