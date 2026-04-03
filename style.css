@@ -956,10 +956,11 @@ button:hover {
     margin-left: 5px;
 }
 
-#etude img:hover {
+#house img:hover {
     cursor: pointer;
 }
 
+/*product names section*/
 #earth {
     height: 50px;
     width: 80%;
