@@ -676,11 +676,11 @@ button:hover {
     font-weight: 500;
 }
 
-.product img:hover {
+#min .product img:hover {
     cursor: pointer;
 }
 
-#one:hover {
+.name #one:hover {
     cursor: pointer;
 }
 
