@@ -676,7 +676,11 @@ button:hover {
     font-weight: 500;
 }
 
-.name :hover {
+.product:hover {
+    cursor: pointer;
+}
+
+.name:hover {
     cursor: pointer;
 }
 
