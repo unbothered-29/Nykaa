@@ -676,7 +676,7 @@ button:hover {
     font-weight: 500;
 }
 
-.product:hover {
+.product img:hover {
     cursor: pointer;
 }
 
